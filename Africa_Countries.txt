@@ -1,0 +1,11 @@
+# Names of 10 Countries in The world
+1. ALgeria
+2. Belgium
+3. Canada
+4. Denmark
+5. Egypt
+6. France
+7. Ghana
+8. Hungary
+9. India
+10.Japan
